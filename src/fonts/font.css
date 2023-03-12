@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'jojobaregular';
+    src: url('Roboto-Regular.ttf') format('woff2'),
+         url('Roboto-Regular.ttf') format('woff');
+
+}
+
+@font-face {
+    font-family: 'pleasewritemeasongmedium';
+    src: url('Roboto-Regular.ttf') format('woff2'),
+         url('Roboto-Regular.ttf') format('woff');
+
+}
